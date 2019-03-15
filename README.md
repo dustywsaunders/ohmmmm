@@ -51,10 +51,14 @@ We try to maintain a backlog to keep track of all implemented and future feature
 
 ## Contributors
 
-Aliénor de Haan - Client<br />
+Aliénor de Haan - Designer & Project Initializer - http://alienordehaan.com/<br />
 Milan van den Bovenkamp - Project Manager
 
 Development Team:<br />
 Leonie Peters: https://github.com/LeoniePeters<br />
 Rogier Verkaik: https://github.com/rogierv<br />
 Dusty Wood Saunders: https://github.com/dustywsaunders
+
+## Legal
+
+This app remains the work and property of Aliénor de Haan. Please contact her for rights to use any of the code and/or media. 
