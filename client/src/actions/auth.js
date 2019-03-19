@@ -5,6 +5,7 @@ export const LOGIN_FAILED = 'LOGIN_FAILED';
 export const SIGNUP_FAILED = 'SIGNUP_FAILED';
 export const SET_CURRENT_USER = 'SET_CURRENT_USER';
 
+// If running on local, change baseUrl to 3000:localhost
 const baseUrl = 'https://ohmmmm.herokuapp.com';
 
 const loginSuccess = token => ({
